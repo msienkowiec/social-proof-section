@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/msienkowiec/social-proof-section)
+- Live Site URL: [live](https://msienkowiec.github.io/social-proof-section/)
 
 ### Built with
 
